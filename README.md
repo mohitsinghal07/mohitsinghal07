@@ -2,7 +2,7 @@
 
 ### About Me 🚀
 I'm Mohit Singhal, a passionate coder, and a tech enthusiast well-versed in Programming (C++, Java, JavaScript) with an interest in Software Development and Designing (UI/UX). 
-A CS undergraduate who loves to explore new things. I've Started exploring MERN Stack (MongoDB, Express, React, Node.Js) and learning DSA as well.
+A CS undergraduate who loves to explore new things. I'm MERN Developer (MongoDB, Express, React, Node.Js) and learning DSA as well.
 
 ### Tech I'm familiar with ⚡
 - Languages: C++, JAVA, JavaScript
