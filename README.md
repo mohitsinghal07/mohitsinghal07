@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mohit!
 
 ### About Me 🚀
-I am Mohit Singhal, a dedicated coder and MERN (MongoDB, Express, React, Node.js) Developer. I am also well-versed in programming languages such as Java and JavaScript, with a keen interest in Web development. Additionally, I have knowledge and experience in SQL and NoSQL databases, Object-Oriented Programming (OOPs), as well as a strong understanding of Data Structures and Algorithms. As a computer science graduate, I enjoy exploring new technologies. 
+Software Engineer focused on building reliable backend systems with Java, SpringBoot. I focus on writing clean, testable code. Experienced in REST API design, data modeling, schema design and low-level design for real-world services. Currently exploring Node.js and React.js to deliver full‑stack web applications. Interested in financial systems and performance engineering.
 
 ### Tech I'm familiar with ⚡
 - Languages: Java, JavaScript
