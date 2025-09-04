@@ -5,9 +5,9 @@ Software Engineer focused on building reliable backend systems with Java, Spring
 
 ### Tech I'm familiar with ⚡
 - Languages: Java, JavaScript
-- Lib/Frameworks: Node.Js, React.Js, Express.js
-- Databases: SQL, MongoDB
-- Core competency: Data Structures and Algorithms
+- Lib/Frameworks: SpringBoot, Node.js, Express.js
+- Databases: SQL, NoSQL
+- Core competency: Data Structures and Algorithms, System Design
 
 ### Connect with me 📌
 
